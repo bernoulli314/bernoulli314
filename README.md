@@ -1,68 +1,39 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span> Hey, Nice to see you. </span> </h1>
 
-I'm Diego González, a data science student 👨🏻‍💻 from Chile. I mostly develop in Python 🐍.
+I am Diego González, a Data Science student 👨🏻‍💻 from Salamanca, Chile. I mostly develop in Python 🐍.
 
 <div>
 <a href="mailto: diego.gonzalez.f@ug.uchile.cl">
-<img src="https://img.shields.io/badge/-diego.gonzalez.f%40ug.uchile.cl-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/stxrdxst_lml/">   <img src="https://img.shields.io/badge/@stxrdxst_lml_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-diego.gonzalez.f%40ug.uchile.cl-7B83EB?&style=for-the-badge&logo=gmail&logoColor=white" ></a>  <a  href="https://www.instagram.com/stxrdxst_lml/">   <img src="https://img.shields.io/badge/@stxrdxst_lml_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-### Current Status Quo : 📡
+### Some info 🪐:
 
-- 💼 I’ve graduated with a <strong>MSc Computing degree in Management and Finance</strong>.
-- 🔭 I’m working on <strong>FinTech (NLP and DLT)</strong> and <strong>Algorithmic Trading</strong>
-- 🌱 I’m currently learning <strong>RegTech</strong> and <strong>Automated Risk Trading</strong>
-- 🤔 My career interests are with <strong>Crypto Trading, Natural Language Processing</strong>, etc
-- 🔍 I’m looking for career opportunities in the <strong>Quant</strong> or <strong>Banking</strong> industry
-- 👀 See my [Personal Portfolio](https://www.billpwchan.com) to get more info
+- 👀 I'm currently focused on learning data science. I would like to work with natural science datasets.
+- 🌌 I have a degree in astronomy from the University of Chile
+- 🎶 I like to play music, own music coming soon
+- 🌎 I love Earth sciences, I'm considering studying geophysics in the future.
+- 🕹️ I like anime and videogames.
 
-### Stats Overview : :cyclone:
+## Tech Stack 🛠️
 
-[<img align="left" width="390" alt="🦑" src="asset/base.svg">](#)
-[<img align="right" width="390" alt="🦑" src="asset/fortune.svg">](#)
-[<img align="right" width="390" alt="🦑" src="asset/projects.svg">](#)
+Programming Languages
 
-[<img align="right" width="390" alt="🦑" src="asset/followup.svg">](#)
-[<img align="left" width="390" alt="🦑" src="asset/isocalendar.svg">](#)
-[<img align="right" width="390" alt="🦑" src="asset/languages.svg">](#)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
 
-[<img align="right" width="390" alt="🦑" src="asset/stargazers.svg">](#)
+Data Science and Machine Learning Frameworks
 
-[<img align="left" width="390" alt="🦑" src="asset/reactions.svg">](#)
-[<img align="right" width="390" alt="🦑" src="asset/habits.svg">](#)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white])
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white])
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=flat-square&logo=plotly&logoColor=white])
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white])
 
-[<img align="left" width="390" alt="🦑" src="asset/achievements.svg">](#)
+Enviroments, Containers, Deploy, CI, etc.
 
-[<img align="left" width="390" alt="🦑" src="asset/people.svg">](#)
+![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=flat-square&logo=anaconda&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
 
-[<img align="right" width="390" alt="🦑" src="asset/twitter.svg">](#)
+Others
 
-[<img align="left" width="390" alt="🦑" src="asset/stock.svg">](#)
-
-
-
-<!-- ### Tools I work upon : 🛠
-
-<img src="https://img.shields.io/badge/Java%20-%23E00033.svg?&style=for-the-badge&logo=java&logoColor=white">   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white">   <img src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white">   
-<img src="https://img.shields.io/badge/tableau%20-%230D597F.svg?&style=for-the-badge&logo=tableau&logoColor=white">   <img src="https://img.shields.io/badge/tensorflow%20-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white">   <img src="https://img.shields.io/badge/neo4j%20-%23008CC1.svg?&style=for-the-badge&logo=neo4j&logoColor=white">   <img src="https://img.shields.io/badge/mongodb%20-%2347A248svg?&style=for-the-badge&logo=mongodb&logoColor=white">   <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">  -->
-
-
-<!-- 
-<table>
-  <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=billpwchan&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight"/></td>
-    <td><img align="center" src="https://github-profile-trophy.vercel.app/?username=billpwchan&theme=dracula&no-bg=true&row=2&column=3"/></td>
-  </tr>
-</table>
-
-### GitHub Highlights: :blossom:
-<table>
-  <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billpwchan&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" /></td>
-    <td><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=billpwchan&theme=material-palenight"/></td>
-  </tr>
-</table>
-  
-### Github Activity: 🔥 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=billpwchan&theme=dracula&color=B994E6&bg_color=2B2D3D" /> 
--->
+![vscode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
