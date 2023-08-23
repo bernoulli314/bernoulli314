@@ -1,12 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span> Hey, Nice to see you. </span> </h1>
 
-I'm Bill Chan 😉, technology consultant 👨🏻‍💻 from Hong Kong. I'm an open-source profession and mostly develop in Python 🐍.
-
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Technology+Consultant+and+FinTech+Engineer;Python+Developer+with+3%2B+Years+Experience;Passionate+about+Algorithmic+Trading" height="40"/>
+I'm Diego González, a data science student 👨🏻‍💻 from Chile. I mostly develop in Python 🐍.
 
 <div>
-<a href="mailto: billpwchan@hotmail.com">
-<img src="https://img.shields.io/badge/-billpwchan%40hotmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/billpwchan/">   <img src="https://img.shields.io/badge/@billpwchan_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/billpwchan1998/"><img src="https://img.shields.io/badge/billpwchan-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.billpwchan.com/"><img src="https://img.shields.io/badge/billpwchan.com-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<a href="mailto: diego.gonzalez.f@ug.uchile.cl">
+<img src="https://img.shields.io/badge/-diego.gonzalez.f%40ug.uchile.cl-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/stxrdxst_lml/">   <img src="https://img.shields.io/badge/@stxrdxst_lml_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 ### Current Status Quo : 📡
